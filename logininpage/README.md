@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to display login page.
-Developed by:
-Registeration Number :
+Developed by: Srinivasan S
+Registeration Number : 212220230048
 */
 ```
 ## MainActivity.java
